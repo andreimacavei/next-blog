@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://next-blog-andreimacavei.vercel.app
+
+# Sitemaps
+Sitemap: https://next-blog-andreimacavei.vercel.app/sitemap.xml
