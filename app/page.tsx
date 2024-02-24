@@ -8,7 +8,7 @@ export default function Home() {
     <div className="mx-auto">
       <MyProfilePic />
       <p className="mt-12 mb-12 text-3xl text-center dark:text-white">
-        Hello and Welcome 👋&nbsp; 
+        Hello and Welcome 👋 <br />
         <span className="whitespace"> I'm  <span className="font-bold">Andrei Macavei</span>
           , a software enthusiast.
         </span>
